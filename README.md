@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yamunadevi and I'm a Full-stack developer from india</p>
+<p align="left">My name is Yamunadevi K and I'm a Full-stack developer from india</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning reacr.js<br>🎯 Goals: full-stack developer<br>🎲 Fun fact: I am talkative</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning react.js<br>🎯 Goals: full-stack developer<br>🎲 Fun fact: I am talkative</p>
 
 ###
 
@@ -45,4 +45,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-###
