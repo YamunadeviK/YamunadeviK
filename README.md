@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning react.js<br>🎯 Goals: full-stack developer<br>🎲 Fun fact: I am talkative</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning react.js<br>🎯 Goals: full-stack developer<br></p>
 
 ###
 
@@ -31,6 +31,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">I am interested in</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" width="52" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" width="52" alt="salesforce logo"  />
 </div>
 
 ###
