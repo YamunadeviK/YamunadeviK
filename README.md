@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon web service/amazon web service-original.svg" height="40" width="52" alt="amazon web service"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/AWS/AWS-original.svg" height="40" width="52" alt="AWS"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" width="52" alt="salesforce logo"  />
 </div>
 
